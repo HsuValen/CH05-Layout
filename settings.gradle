@@ -1,0 +1,6 @@
+include ':0502_Marrisug_radiobutton'
+include ':0500g_AreaConverter'
+include ':0500d_Converter'
+include ':0501_Marrisug'
+include ':0500f_MoneyChange'
+rootProject.name = "CH05-Layout"
